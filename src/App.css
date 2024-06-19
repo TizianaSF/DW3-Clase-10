@@ -1,0 +1,20 @@
+body{
+  margin: 30px;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.card{
+  margin: 1%;
+}
+.card button{
+  margin: 1%;
+}
+#prod{
+  text-align: center;
+  margin: 2%;
+  color: lightblue;
+}
